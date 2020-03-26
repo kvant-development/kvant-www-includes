@@ -1,4 +1,5 @@
-<footer class="footer" data-multiple-anim="fadeInUp">
+
+<footer class="footer">
         <div class="footer__bg"></div>
         <div class="container">
           <div class="footer__top">
@@ -128,5 +129,4 @@
       </footer>
     </div>
   </div>
-
   
