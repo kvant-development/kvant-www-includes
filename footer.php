@@ -7,21 +7,21 @@
               <h3 class="footer__title">О проекте</h3>
               <ul class="footer__list">
                 <li>
-                  <a href="">White Paper</a>
+                  <a href="https://kvant.io/whitepaper.pdf">White Paper</a>
                 </li>
                  <li>
-                  <a href="">Скорость</a>
+                  <a href="https://kvant.io/#speed">Скорость</a>
                 </li>
                  <li>
-                  <a href="">Преимущества</a>
+                  <a href="https://kvant.io/#advantages">Преимущества</a>
                 </li>
 
                 <li>
-                  <a href="">Hyperon</a>
+                  <a href="https://kvant.io/#partners">СМИ о нас</a>
                 </li>
 
                 <li>
-                  <a href="">Команда KVANT</a>
+                  <a href="https://kvant.io/#team">Команда KVANT</a>
                 </li>
 
 
@@ -34,16 +34,16 @@
                   <a href="https://wallet.kvant.io/">KVANT Wallet</a>
                 </li>
                 <li>
-                  <a href="https://blockchain.kvant.io/">Обозреватель блокчейна</a>
+                  <a href="https://explorer.kvant.io/">Обозреватель блокчейна</a>
                 </li>
                 <li>
                   <a href="https://sale.kvant.io/">Купить KVANT</a>
                 </li>
                 <li>
-                  <a href="">Калькулятор Bitmining</a>
+                  <a href="https://kvant.io/#calc">Калькулятор Bitmining</a>
                 </li>
                 <li>
-                  <a href="">Модуль Bitmining</a>
+                  Модуль Bitmining
                 </li>
               </ul>
             </div>
@@ -51,16 +51,14 @@
               <h3 class="footer__title">Документы</h3>
               <ul class="footer__list">
                 <li>
-                  <a href="">Политика конфиденциальности</a>
+                  <a href="https://kvant.io/privacypolicy.pdf">Политика конфиденциальности</a>
                 </li>
                               </ul>
               <ul class="footer__list footer__list_white footer__list_bottom">
                 <li>
                   <a href="https://github.com/kvant-development/" target=github>GitHub</a>
                 </li>
-                <li>
-                  <a href="">Отказ от ответственности</a>
-                </li>
+                
               </ul>
             </div>
             <div class="footer__item">
@@ -69,42 +67,42 @@
               <b>support@kvant.io</b> - служба технической поддержки. </br>
               <b>press@kvant.io</b> - пресс-служба проекта. </p>
               <div class="social social_type2">
-                <a class="social__item social__item_fb" href="">
+                <a class="social__item social__item_fb" href="https://www.facebook.com/KVANT-102898661277599/">
                   <div class="svg-icon svg-icon_icon-fb">
                     <svg>
                       <use xlink:href="#icon-fb"></use>
                     </svg>
                   </div>
                 </a>
-                <a class="social__item social__item_vk" href="">
+                <a class="social__item social__item_vk" href="https://vk.com/public191475786">
                   <div class="svg-icon svg-icon_icon-vk">
                     <svg>
                       <use xlink:href="#icon-vk"></use>
                     </svg>
                   </div>
                 </a>
-                <a class="social__item social__item_odn" href="">
+                <a class="social__item social__item_odn" href="https://ok.ru/group/62360325128232/topics">
                   <div class="svg-icon svg-icon_icon-odn">
                     <svg>
                       <use xlink:href="#icon-odn"></use>
                     </svg>
                   </div>
                 </a>
-                <a class="social__item social__item_inst" href="">
+                <a class="social__item social__item_inst" href="https://www.instagram.com/kvant_io/">
                   <div class="svg-icon svg-icon_icon-inst">
                     <svg>
                       <use xlink:href="#icon-inst"></use>
                     </svg>
                   </div>
                 </a>
-                <a class="social__item social__item_yt" href="">
+                <a class="social__item social__item_yt" href="https://www.youtube.com/channel/UCjS0YKFhg7qgiw6XXq3obWw?view_as=subscriber">
                   <div class="svg-icon svg-icon_icon-yt">
                     <svg>
                       <use xlink:href="#icon-yt"></use>
                     </svg>
                   </div>
                 </a>
-                <a class="social__item social__item_tg" href="">
+                <a class="social__item social__item_tg" href="https://t.me/joinchat/AAAAAErJDnrkf6NuXzZijQ">
                   <div class="svg-icon svg-icon_icon-tg">
                     <svg>
                       <use xlink:href="#icon-tg"></use>
@@ -129,4 +127,26 @@
       </footer>
     </div>
   </div>
+  
+  <script type="text/javascript">!function(){var t=document.createElement("script");t.type="text/javascript",t.async=!0,t.src="https://vk.com/js/api/openapi.js?167",t.onload=function(){VK.Retargeting.Init("VK-RTRG-467321-33iN9"),VK.Retargeting.Hit()},document.head.appendChild(t)}();</script><noscript><img src="https://vk.com/rtrg?p=VK-RTRG-467321-33iN9" style="position:fixed; left:-999px;" alt=""/></noscript>
+
+<!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '631213594392588');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=631213594392588&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+
+
   
